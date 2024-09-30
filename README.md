@@ -26,9 +26,7 @@ step 6 - End program.
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: ROHIT R
 RegisterNumber:  212223080045
-*/
-```
-```c
+
 import pandas as pd
 data=pd.read_csv("Salary.csv")
 data.head()
